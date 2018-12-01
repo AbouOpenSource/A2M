@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A2M</string>
+    <string name="strSignIn">S\'inscrire</string>
+    <string name="btnConnect">Conneceter</string>
+    <string name="strName">Nom</string>
+    <string name="strLastName">Nom</string>
+    <string name="strFirstName">Prénom</string>
+    <string name="strCellPhone">Téléphone</string>
+    <string name="strPassword">Mot de Passe</string>
+    <string name="strJoin">Join</string>
+</resources>

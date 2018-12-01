@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">A2M</string>
+    <string name="strSignIn">Sign In</string>
+    <string name="btnConnect">Connect</string>
+    <string name="strName">Name</string>
+
+    <string name="strLastName">Last Name</string>
+    <string name="strFirstName">First Name</string>
+    <string name="strCellPhone">CellPhone</string>
+    <string name="strPassword">Password</string>
+    <string name="strJoin">Join</string>
+    <string name="strCreate">Create Account</string>
+</resources>
+<resources>
+<string-array name="unite">
+    <item>Kg</item>
+    <item>Tonne</item>
+</string-array>
+</resources>
